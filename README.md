@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Vedant Mistry <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="28"></h1>
 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&background=6DFF2B00&center=true&vCenter=true&width=435&lines=3rd+Year+CSE+Student;Passionate+about+Software+Development;Interest+in+Linux-based+OS, Physics, Math, Philosophy, and Science;Front-End Developer with HTML, CSS, and JavaScript;Learning ReactJS and Node.js" alt="Typing SVG" /></a>
-</p>
+[![An image of @vedantmistryy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedantmistryy)](https://holopin.io/@vedantmistryy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmistry&label=Profile%20views&color=0e75b6&style=flat" alt="vedantmistry" /> </p>
 
